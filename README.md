@@ -10,6 +10,8 @@ NewsSphere is a simple news management system implemented in Java. It allows adm
 - **Add News Article**: Administrators and journalists can add news articles with title, content, author, category, and publication date.
 - **Edit News Article**: Administrators and journalists can edit the content of existing news articles.
 - **View News**: Administrators, journalists, and readers can view the list of news articles.
+- **View/Edit Users**: Administrators can view, edit and delete registered users.
+
 
 ## Prerequisites
 
