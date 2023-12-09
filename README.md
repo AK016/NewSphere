@@ -38,3 +38,4 @@ File Structure
 - com/masai/utility: Contains utility classes for file operations.
 - news.txt: Stores the news articles data.
 - users.txt: Stores the user account data.
+
